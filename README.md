@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**ZoEn34palabras/ZoEn34palabras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="left">Hey 👋 Welcome!</h1>
 
 ###
@@ -37,4 +33,3 @@
 </div>
 
 ###
--->
