@@ -2,15 +2,14 @@
 
 ###
 
-<p align="left">My name is Enzo and I'm a Full Stack Javascript student from Chile</p>
-
+<p align="left">My name is Enzo and I'm a Full Stack Java student from Chile</p>
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Javascript<br>🎯 Goals: Master the essentials and start working<br>🎲 Fun fact: I was an English teacher for 15 years</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Java<br>🎯 Goals: Master the essentials and start working<br>🎲 Fun fact: I was an English teacher for 15 years</p>
 
 ###
 
