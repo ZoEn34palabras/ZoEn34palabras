@@ -7,7 +7,6 @@
 
 <h2 align="left">About me</h2>
 
-###
 
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Java<br>🎯 Goals: Master the essentials and start working<br>🎲 Fun fact: I was an English teacher for 15 years</p>
 
