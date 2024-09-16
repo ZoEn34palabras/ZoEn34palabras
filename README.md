@@ -3,7 +3,6 @@
 
 
 <p align="left">My name is Enzo and I'm a Full Stack Java student from Chile</p>
-###
 
 <h2 align="left">About me</h2>
 
